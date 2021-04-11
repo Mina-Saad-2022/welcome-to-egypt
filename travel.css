@@ -1,0 +1,303 @@
+body {
+  background-color: #000;
+}
+
+/* the start navabar style ................................. */
+.img-navabar {
+    margin-right: 20px;
+}
+nav {
+  background-color: #151132;
+}
+nav a {
+  color: #ffff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nav-link:hover {
+  color: #f9ab05;
+  /* font-size: 20px; */
+}
+.dropdown-menu {
+  color: #fff;
+  font-size: 20px;
+  background-color: #151132;
+}
+.dropdown-divider{
+  color: red;
+
+}
+
+.dropdown-menu .dropdown-item:hover {
+  background-color: #f9ab05;
+  color: #fff;
+
+}
+.btn {
+  margin-right: 10px;
+}
+img:hover{
+    background-color: #f9ab05;
+}
+
+/* the end navabar style .................................. */
+/* the start slider style ................................. */
+
+.carousel-inner img{
+  height:  467px;
+ 
+}
+.h41 {
+  color:#fff ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+.p41{
+  color: #E7E3EC  ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+.h42{
+  color:#fff ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+.p42{
+  color: #000  ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+.h43{
+  color:#fff ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+.p43{
+  color: #E7E3EC  ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+/* the end slider style ..................................*/
+
+/* the start slider body ..................................*/
+.-body{
+  width: 1000px;
+}
+.contanier{
+  width: 250px;
+  float: left;
+}
+.come-to-egypt{
+  font-size: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration-line: underline;
+  text-align: center;
+}
+
+.form-inline my-2 my-lg-0{
+  background-color: #fff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.ml5 {
+  position: relative;
+  font-weight: 300;
+  font-size: 4.5em;
+  text-align: center;
+  margin-top:15px;
+}
+
+.ml5 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.1em;
+  padding-right: 0.05em;
+  padding-bottom: 0.15em;
+  line-height: 1em;
+}
+
+.ml5 .line {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  height: 3px;
+  width: 100%;
+  background-color: #402d2d;
+  transform-origin: 0.5 0;
+}
+
+.ml5 .ampersand {
+  font-family: Baskerville, serif;
+  font-style: italic;
+  font-weight: 400;
+  width: 1em;
+  margin-right: -0.1em;
+  margin-left: -0.1em;
+}
+.egypt{
+  color: red;
+  
+}
+.ml5 .letters {
+  display: inline-block;
+  opacity: 0;
+  color: #000;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p#cf7_controls {
+  text-align:center;
+}
+#cf7_controls span {
+  padding-right:2em;
+  cursor:pointer;
+}
+#cf7 {
+  position:relative;
+  height:281px;
+  width:450px;
+  margin:0 auto 10px;
+}
+#cf7 img {
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+  opacity:0;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+}
+
+
+.ml15 {
+  font-weight: 50;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  color: #fff;
+  margin-right: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  overflow: hidden;
+}
+
+.ml15 .word {
+  display: inline-block;
+  line-height: 1em;
+}
+
+
+
+.ml5 {
+  position: relative;
+  font-weight: 300;
+  font-size: 4.5em;
+  color: #402d2d;
+}
+
+.ml5 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.1em;
+  padding-right: 0.05em;
+  padding-bottom: 0.15em;
+  line-height: 1em;
+  font-size: 40px;
+}
+.ml5 .line {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  height: 3px;
+  width: 100%;
+  background-color: #402d2d;
+  transform-origin: 0.5 0;
+}
+.ml5 .ampersand {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: 400;
+  width: 1em;
+  margin-right: -0.1em;
+  margin-left: -0.1em;
+}
+.ml5 .letters {
+  display: inline-block;
+  opacity: 0; 
+}
+.body-img{
+  border-left: 10px;
+  overflow: hidden;
+  padding-left: 100px ;
+  padding-right:100px;
+}
+
+.body-img img{
+  width: 300px;
+  height: 300px;
+}
+.div-right{
+  width: 1200px;
+  height: 300px;
+  text-align: center;
+  margin-left: 30px;
+}
+
+.div-right h3{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #133b5c ;
+  text-decoration: underline;
+  margin-bottom: 100px;
+  text-align: center;
+}
+.div-left{
+  /* width: 1200px; */
+  height: 300px;
+  text-align: center;
+  margin-left: 30px;
+}
+.div-left h3{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #133b5c;
+  text-decoration: underline;
+  margin-bottom: 100px;
+  text-align: center;
+}
+.body-img{
+  border-left:  2px   solid #133b5c;
+}
+.body-img hr{
+  direction: inherit;
+  border-width: 7px;
+  border-color: #000;
+  background-color: rgb(250, 150, 0);
+  height: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
