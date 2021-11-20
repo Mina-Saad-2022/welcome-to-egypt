@@ -1,6 +1,6 @@
 # welcome-to-egypt
 
-In this project i use HTML and CSS only 
+In this project i use HTML , CSS and JAVESCRIPT only 
 
 The idea of this project is a simple page containing 11 reasons why any tourist should visit Egypt
 
